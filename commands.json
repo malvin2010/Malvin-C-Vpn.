@@ -1,0 +1,28 @@
+{
+  ".ping": "🏓 Pong!",
+  ".hello": "Hello from Malvin C Vpn!",
+  ".play": "🎵 Play music placeholder",
+  ".video": "📹 Video download placeholder",
+  ".economy": "💰 Economy system placeholder",
+  ".balance": "Your balance is 100 coins",
+  ".work": "You worked and earned 10 coins",
+  ".gamble": "You gambled and lost 5 coins",
+  ".shop": "🛒 Shop placeholder",
+  ".buy": "Purchase placeholder",
+  ".sell": "Sell placeholder",
+  ".game": "🎮 Game placeholder",
+  ".roll": "🎲 Dice roll",
+  ".flip": "🪙 Coin flip",
+  ".quiz": "Quiz placeholder",
+  ".fact": "Random fact",
+  ".joke": "Random joke",
+  ".news": "Latest news placeholder",
+  ".weather": "Weather placeholder",
+  ".download": "Download placeholder",
+  ".uptime": "Bot uptime",
+  ".status": "Bot status",
+  ".owner": "Powered by Handsome Tech in Zimbabwe"
+  ".malvin":"Contact him on 263780026088"
+  ".handsome-tech-files":"Select file type"
+  // … continue until you reach 126 commands
+}
